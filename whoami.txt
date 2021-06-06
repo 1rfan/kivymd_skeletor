@@ -1,0 +1,4 @@
+Author:Irfan
+Date:3/6/2021
+Time:2038
+Purpose: A skeleton/template python-kivymd program with login screen and customizable menu wiht sqlite
